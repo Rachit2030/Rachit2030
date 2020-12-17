@@ -37,7 +37,11 @@
 
 ⭐️ From [Rachit2030](https://github.com/Rachit2030)
 
-
+### Connect with me:
+[<img align="left" alt="Rachit goyal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rachit2030 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Rachit2030 | Instagram" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][instagram]
+<br />
 
 [linkedin]: https://linkedin.com/in/RachitGoyal2030/
 [instagram]: https://www.instagram.com/
