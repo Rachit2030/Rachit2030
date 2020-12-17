@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Shouraya)
+![](https://komarev.com/ghpvc/?username=Rachit2030)
 
  
 <br/>
