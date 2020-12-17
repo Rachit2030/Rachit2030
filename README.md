@@ -14,7 +14,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Rachit2030)
 
- 
+<div align="center">
 <br/>
 
 ### Languages and Tools:
