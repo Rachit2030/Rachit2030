@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -28,7 +28,7 @@
   
   
 ### 📊 GitHub Stats:
-<div align="left">
+
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=Rachit2030&show_icons=true&hide_border=true&theme=dracula&count_private=true)
 
 ![Top lang](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rachit2030&layout=compact&theme=radical)
