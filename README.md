@@ -10,8 +10,6 @@
 - 😄 Pronouns HE/HIM
 - ⚡ Fun fact: Still working on😂
 
- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
- <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="rachit-goyal-4b956b1aa"><a class="LI-simple-link" href='https://in.linkedin.com/in/rachit-goyal-4b956b1aa?trk=profile-badge'>Rachit Goyal</a></div>
  
 <br/>
 
