@@ -43,7 +43,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Rachit goyal | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="Rachit2030 | GitHub" width="22px" src="" />][github]
+[<img align="left" alt="Rachit2030 | GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" />][github]
 [<img align="left" alt="Rachit2030 | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016.svg" />][instagram]
 <br />
 
