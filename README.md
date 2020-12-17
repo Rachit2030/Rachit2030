@@ -1,6 +1,9 @@
 ### Hi there 👋
 # I'm Rachit 👓
 
+<br/>
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on ML
