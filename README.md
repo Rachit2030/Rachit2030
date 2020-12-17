@@ -10,6 +10,10 @@
 - 😄 Pronouns HE/HIM
 - ⚡ Fun fact: Still working on😂
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Shouraya)
+
  
 <br/>
 
