@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Rachit 👓
+# I'm Rachit 👓
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me @Rachit2030 Or email at : rachit2001goyal@gmail.com
 - 😄 Pronouns HE/HIM
 - ⚡ Fun fact: Still working on😂
--->
+
