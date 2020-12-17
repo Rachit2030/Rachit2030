@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I'm Rachit 👓
 
 Here are some ideas to get you started:
 
@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about OOP's,Python
 - 📫 How to reach me @Rachit2030 Or email at : rachit2001goyal@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns HE/HIM
+- ⚡ Fun fact: Still working on😂
 -->
