@@ -13,7 +13,7 @@
 - 😄 Pronouns HE/HIM
 - ⚡ Fun fact: Still working on😂
 
-<div align="center">
+<div align="right">
 
 ![](https://komarev.com/ghpvc/?username=Rachit2030)
 
