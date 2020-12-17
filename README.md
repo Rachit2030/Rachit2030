@@ -47,6 +47,6 @@
 <br />
 
 [linkedin]: https://linkedin.com/in/RachitGoyal2030/
-[instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com/rachitgoyal20/
 [github]: https://github.com/Rachit2030
 
