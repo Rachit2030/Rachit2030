@@ -15,6 +15,12 @@
 
 
 <br/>
+<br/>
+  <div align="right">
+
+![](https://komarev.com/ghpvc/?username=Rachit2030)
+
+</div>
 
 ### Languages and Tools:
 
@@ -25,11 +31,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
  
-  <div align="right">
 
-![](https://komarev.com/ghpvc/?username=Rachit2030)
-
-</div>
   
 ### 📊 GitHub Stats:
 
