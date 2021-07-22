@@ -2,7 +2,7 @@
 # I'm Rachit 👓
 
 <br/>
-<img align="right" height="3000" width="400" alt="GIF" src="https://media.giphy.com/media/l0MYII7vx3jZTG3Oo/giphy.gif" />
+<img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/l0MYII7vx3jZTG3Oo/giphy.gif" />
 
 - 🔭 I’m currently working on **CPP**
 - 🌱 I’m currently learning **ML**
