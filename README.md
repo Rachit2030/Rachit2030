@@ -37,7 +37,7 @@
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=Rachit2030&show_icons=true&hide_border=true&theme=dracula&count_private=true)
 
-![Top lang](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rachit2030&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit2030&layout=compact)](https://github.com/Rachit2030/github-readme-stats)
 
 
 ⭐️ From [Rachit2030](https://github.com/Rachit2030)
