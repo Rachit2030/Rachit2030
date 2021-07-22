@@ -15,7 +15,6 @@
 
 <br/>
 <br/>
-<br/>
  <div align="right">
 
 ![](https://komarev.com/ghpvc/?username=Rachit2030)
