@@ -13,10 +13,8 @@
 
 <br/>
 <br/>
- <div align="right">
-
+ <div align="left">
 ![](https://komarev.com/ghpvc/?username=Rachit2030)
-
 </div>
 
   
@@ -37,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/swift/swift-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
- 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="python" width="40" height="40"/></p>
 
 ### Connect with me:
 [<img align="left" alt="Rachit goyal | LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
