@@ -11,7 +11,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Rachit2030&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<br/>
+---
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rachit2030&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
