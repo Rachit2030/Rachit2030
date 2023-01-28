@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Rachit 👓
+## I'm Rachit Goyal 👓
 
 
 [linkedin]: https://linkedin.com/in/RachitGoyal2030/
@@ -7,7 +7,7 @@
 
  
  ### 💫 About Me:
-🔭 I’m currently working on Kotlin, Jetpack Compose, Android Studio<br>🌱 I’m currently learning Android Development<br>📫 How to reach me Rachit2030 Or email at : goyalrachit2030@gmail.com<br>😄 Pronouns HE/HIM<br>⚡ Fun fact: Still working on😂
+🔭 I’m currently working on Kotlin, Jetpack Compose, Flutter, Android Studio<br>🌱 I’m currently learning Android Development<br>📫 How to reach me Rachit2030 Or email at : goyalrachit2030@gmail.com<br>😄 Pronouns HE/HIM<br>⚡ Fun fact: Still working on😂
 
 [![](https://visitcount.itsvg.in/api?id=Rachit2030&icon=9&color=0)](https://visitcount.itsvg.in)
 
